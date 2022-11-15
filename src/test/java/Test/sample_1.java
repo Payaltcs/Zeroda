@@ -14,6 +14,7 @@ public class sample_1 {
 		driver.get("https://www.flipkart.com/");
 		
 		driver.close();
+		System.out.println("Hello payal");
 	}
 
 }
